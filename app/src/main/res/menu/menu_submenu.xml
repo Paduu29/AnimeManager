@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/sort_name_asc"
+        android:title="Sort name asc."/>
+    <item android:id="@+id/sort_name_desc"
+        android:title="Sort name desc."/>
+    <item android:id="@+id/sort_score_asc"
+        android:title="Sort by score asc."/>
+    <item android:id="@+id/sort_score_desc"
+        android:title="Sort by score desc."/>
+    <item android:id="@+id/default_sort"
+        android:title="Default"/>
+</menu>

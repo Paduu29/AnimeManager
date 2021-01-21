@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Anime Manager</string>
+    <string name="my_animes">My Animes</string>
+    <string name="name_asc">Anime Name Asc.</string>
+    <string name="detail_view">Anime Details</string>
+    <string name="name_desc">Anime Name Desc.</string>
+    <string name="score_asc">Anime Score Asc.</string>
+    <string name="score_desc">Anime Score Desc</string>
+</resources>

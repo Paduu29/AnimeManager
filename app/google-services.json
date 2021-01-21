@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "466216096491",
+    "firebase_url": "https://anime-manager-c8f96.firebaseio.com",
+    "project_id": "anime-manager-c8f96",
+    "storage_bucket": "anime-manager-c8f96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466216096491:android:550d01383f73ad4f57a4ae",
+        "android_client_info": {
+          "package_name": "com.padunime.animemanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466216096491-6a267ehdt57dfu45l1s869qld4q48at1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWDljIB8KXbLSX1knpnV0VyzvGa1jdHAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466216096491-6a267ehdt57dfu45l1s869qld4q48at1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
